@@ -1,12 +1,12 @@
 
+import Hero from './Components/Hero'
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        yeeee
-      </header>
+    <div>
+      <Hero />
 
     </div>
   );
